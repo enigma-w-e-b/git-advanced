@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/enigma-w-e-b/git-advanced/issues"
   },
-  "homepage": "https://github.com/enigma-w-e-b/git-advanced#readme"
+  "homepage": "https://github.com/enigma-w-e-b/git-advanced#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
