@@ -19,8 +19,5 @@
   "homepage": "https://github.com/enigma-w-e-b/git-advanced#readme",
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "git-commit-msg-linter": "^4.2.1"
   }
 }
